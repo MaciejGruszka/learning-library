@@ -57,6 +57,7 @@ The content contains several independent modules that cover different aspects of
 | **Thursday** |  |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-10:30 | [Deploy WebLogic on Kubernetes using WebLogic Operator](https://github.com/nagypeter/weblogic-kubernetes-operator-on-OKE) |
+| MODIFIED TO RUN ON SHARED OKE | [Deploy WebLogic App to Server running on Kubernetes using Wercker](https://github.com/nagypeter/weblogic-kubernetes-operator-on-OKE/blob/master/tutorials/sample.app.pipeline.md) |
 | **10:30-10:45** | **Coffee break** |
 | 10:45-12:00 | [Build a Tweet analysis service using Application Container Cloud Service and Data Hub Cloud Service (Cassandra)](accs-dhcs-twitter/README.md) |
 | 12:00-12:30 | [Deploy Tomcat based application to Application Container Cloud Service](accs-tomcat/README.md) |
